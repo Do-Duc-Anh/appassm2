@@ -33,7 +33,7 @@
 
             android:layout_gravity="center"
 
-            android:text=" JACK 97 "
+            android:text=" Expense Management "
             android:textColor="#E53935"
             android:textSize="28dp" />
 
