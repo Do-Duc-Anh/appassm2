@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:title="Home " android:id="@+id/home" android:icon="@drawable/baseline_home_24"/>
+    <item android:title="New EX" android:id="@+id/newExpense" android:icon="@drawable/baseline_create_new_folder_24" />
+    <item android:title="List EX" android:id="@+id/listExpense"  android:icon="@drawable/baseline_list_24"/>
+    <item android:title="New Budget" android:id="@+id/newBudget" android:icon="@drawable/baseline_create_new_folder_24"/>
+    <item android:title="List Budget" android:id="@+id/listBudget" android:icon="@drawable/baseline_list_24" />
+</menu>
